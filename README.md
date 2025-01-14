@@ -10,7 +10,7 @@
 
 1. Clone Git project
 ```bash
-git clone https://github.com/johnreymanto/SeleniumTest.git
+git clone https://github.com/jmvdelasll0123/QA_Task2
 ```
 2. Run the script
 ```bash
